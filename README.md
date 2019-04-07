@@ -1,1 +1,1 @@
-# programmers-algoriyhm-level1
+# programmers-algorithm-level1
